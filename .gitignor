@@ -1,0 +1,7 @@
+.venv/
+.idea/
+dist/
+*pycache*
+.coverage
+coverage.xml
+*.pyc
